@@ -7,5 +7,15 @@ File Downloader
 
 # 使い方
 
+## シンプルなダウンロード
+
+```
 dl.py [file]
+```
+
+## シンプルなダウンロード（ループ）
+
+```
+dl.py [prefix] [suffix] [start number] [end number]
+```
 
